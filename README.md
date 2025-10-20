@@ -27,3 +27,13 @@ This project is a full-stack clone of the popular accommodation booking platform
 | Listing Detailed View   | Shows full property details including images, description, amenities, price, reviews, and booking form.     |
 | Simple Checkout View   | Streamlined checkout page where users confirm booking details, enter payment information, and complete the reservation.     |
 
+### Color Styles: 
+- Primary: #FF5A5F
+- Secondary: #008489
+- Text: #222222
+- Secondary Text: #717171
+
+### Typography
+- Primary Font: Circular, Medium (500), 16px
+- Headings: Circular, Bold (700), 24px-32px
+- Secondary Text: Circular, Book (400), 14px
