@@ -20,3 +20,10 @@ This project is a full-stack clone of the popular accommodation booking platform
 - Booking and checkout
 - Responsive navigation
 
+## Primary Pages
+| Page | Description |
+|----------|----------|
+| Property Listing View   | Displays available listings in a grid layout with filters (location, price, rating, etc.) so users can browse options easily.     |
+| Listing Detailed View   | Shows full property details including images, description, amenities, price, reviews, and booking form.     |
+| Simple Checkout View   | Streamlined checkout page where users confirm booking details, enter payment information, and complete the reservation.     |
+
