@@ -5,6 +5,7 @@ Alx Pro Dev Air BnB Project
 This project is a full-stack clone of the popular accommodation booking platform AirBnB. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings. The project will cover frontend development, backend APIs, database design, and deployment.
 
 ## UI/UX Design Planning
+
 ### Design Goals
 - Create an intuitive and smooth booking experience for users
 - Maintain visual consistency across all pages
@@ -21,18 +22,7 @@ This project is a full-stack clone of the popular accommodation booking platform
 - Responsive navigation
 
 ## Importance of a User-friendly design
-A good booking system isn’t just about features—it’s about reducing friction in the user journey. A user-friendly design helps:
-
-- Improve Conversion Rates
-If the process is simple and clear, more users will complete their bookings instead of dropping off.
-- Reduce Cognitive Load
-Well-structured layouts, clear labels, and visual hierarchy help users make quick decisions.
-- Build Trust
-Clean design and transparency (pricing, availability, policies) build user confidence—essential in handling money and reservations.
-- Support All Device Users
-Responsive and mobile-first design ensures users can book easily on phones, tablets, or desktops.
-- Increase Satisfaction & Retention
-A smooth, intuitive experience makes users more likely to return or recommend the platform.
+A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
 
 ## Primary Pages
 | Page | Description |
