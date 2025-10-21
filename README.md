@@ -20,6 +20,20 @@ This project is a full-stack clone of the popular accommodation booking platform
 - Booking and checkout
 - Responsive navigation
 
+## Importance of a User-friendly design
+A good booking system isn’t just about features—it’s about reducing friction in the user journey. A user-friendly design helps:
+
+- Improve Conversion Rates
+If the process is simple and clear, more users will complete their bookings instead of dropping off.
+- Reduce Cognitive Load
+Well-structured layouts, clear labels, and visual hierarchy help users make quick decisions.
+- Build Trust
+Clean design and transparency (pricing, availability, policies) build user confidence—essential in handling money and reservations.
+- Support All Device Users
+Responsive and mobile-first design ensures users can book easily on phones, tablets, or desktops.
+- Increase Satisfaction & Retention
+A smooth, intuitive experience makes users more likely to return or recommend the platform.
+
 ## Primary Pages
 | Page | Description |
 |----------|----------|
@@ -37,3 +51,25 @@ This project is a full-stack clone of the popular accommodation booking platform
 - Primary Font: Circular, Medium (500), 16px
 - Headings: Circular, Bold (700), 24px-32px
 - Secondary Text: Circular, Book (400), 14px
+
+Identifying the design properties of a mockup—such as layout, colors, typography, spacing, and component behavior is important because it translates the visual idea into clear, consistent guidelines for development. It helps developers build the interface accurately, keeps the design consistent across all pages, improves communication between designers and developers, and ensures the final product is user-friendly and professional. By understanding these design properties early, teams can create reusable components, speed up development, avoid mistakes, and build a better user experience overall.
+
+## UI Component Patterns
+
+### Navbar
+- Logo
+- Search bar
+- User navigation
+- Responsive menu
+
+### Property Card
+- Property iamge
+- Basic details(price, location, rating)
+- Favorite button
+- Responsive layout
+
+### Footer
+- Site links
+- Company information
+- Social media links
+- Copyright information
